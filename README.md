@@ -36,21 +36,21 @@ Additional questions were:
 (2) Does the length of a campaign contribute to its success or failure?
 
 #### Findings
-For Kickstarter campaigns for plays (Figure 1):---
--No campaigns were cancelled.---
--Most campaigns had goal amounts of < $10,000 (see sheet “OutcomesBasedOnGoals”).---
--Lower goal amounts (< $5,000) tended to be more successful (pledge amounts matched or exceed goal amounts), with goal amounts of < $1,000 having the highest success rate (76%)---
--Goal amounts of $35,000 to < $45,000 also tended to be more successful for reasons other than a lower goal amount---
--Higher goal amounts ($45,000 and higher) correlated with the highest fail rates (83% and higher)---
--For unknown reasons, goal amounts between $25,000 and < $35,000 also tended to fail
+For Kickstarter campaigns for plays (Figure 1):
+* No campaigns were cancelled.
+* Most campaigns had goal amounts of < $10,000 (see sheet “OutcomesBasedOnGoals”).
+* Lower goal amounts (< $5,000) tended to be more successful (pledge amounts matched or exceed goal amounts), with goal amounts of < $1,000 having the highest success rate (76%)
+* Goal amounts of $35,000 to < $45,000 also tended to be more successful for reasons other than a lower goal amount
+* Higher goal amounts ($45,000 and higher) correlated with the highest fail rates (83% and higher)
+* For unknown reasons, goal amounts between $25,000 and < $35,000 also tended to fail
 
 Figure 1
 ![PlaysSubcategoryOutcomesBasedOnGoal.png](PlaysSubcategoryOutcomesBasedOnGoal.png)
 
-Theater Kickstarter campaigns were affected by launch date in the following ways (Figure 2):---
--Throughout the year, most campaigns were successful except for launches in December---
--Campaigns were most successful when launched in May and June---
--Campaigns were least successful when launched in December
+Theater Kickstarter campaigns were affected by launch date in the following ways (Figure 2):
+* Throughout the year, most campaigns were successful except for launches in December
+* Campaigns were most successful when launched in May and June
+* Campaigns were least successful when launched in December
 
 Figure 2
 ![TheaterCategoryOutcomesBasedOnLaunchDate.png](TheaterCategoryOutcomesBasedOnLaunchDate.png)
