@@ -29,7 +29,7 @@ Recommendations are the following: For a crowdfunding campaign for the play, “
 ### Challenge
 
 #### Description
-Two new analyses were undertaken with Kickstarter campaign data to uncover trends. The purpose of the first was to determine if there was a relationship between campaign outcomes (success, failure, or cancellation) and goal amounts. The second was to determine whether campaign launch dates affected the same outcomes. See Excel spreadsheet “Module1Challenge” <[Module1Challenge.xlsx](Module1Challenge.xlxs)>.
+Two new analyses were undertaken with Kickstarter campaign data to uncover trends. The purpose of the first was to determine if there was a relationship between campaign outcomes (success, failure, or cancellation) and goal amounts. The second was to determine whether campaign launch dates affected the same outcomes. See Excel spreadsheet “Module1Challenge” <[Module1Challenge.xlsx.zip](Module1Challenge.xlxs.zip)>.
 
 Additional questions were:
 (1) How many Kickstarter campaigns were able to come close to its fundraising goal in a short amount of time?
