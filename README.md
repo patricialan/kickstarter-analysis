@@ -56,6 +56,11 @@ Figure 5
 ![TheaterCategoryOutcomesBasedOnLaunchDate.png](TheaterCategoryOutcomesBasedOnLaunchDate.png)
 
 #### Limitations
-The two new analyses could not answer the additional questions listed above. To answer the first additional question, the question would need to be decomposed. If the play “Fever” is used as an example, then “coming close” to a fundraising goal could be defined as >85% funded. Also, a “short amount of time” could be defined as less than 1 month. To answer this question, an additional column could be created showing length of campaign in days. Then, filters could be applied to only show campaigns that are >85% funded and have a length of < 30 days. A filter for the subcategory, “plays”, could also be used. Finally, the number of campaigns (number of rows) remaining would provide the answer. 
+The dataset was limited to a certain range of years, 2009 to 2017, and to certain countries. There were also "live" (ongoing) campaigns in 2017, where the outcomes (successful or failed) and lengths of the campaigns were unknown. Finally, no reasons are provided in the dataset for "cancelled" campaigns. 
 
-To answer the second additional question, the proposed new column showing campaign length icould be used. Then a line graph with the x-axis as length of campaign could be plotted against a y-axis as percentage of successful/failed/cancelled campaigns, similar to Figure 4.
+The two new analyses could not answer the additional questions listed above. To answer the first additional question, the question was decomposed. If the play “Fever” is used as an example, then “coming close” to a fundraising goal could be defined as >85% funded. Also, a “short amount of time” could be defined as less than 1 month. To answer this question, an additional column was created showing length of campaign in days. Then, filters were applied to only show campaigns that were >85% funded, had a length of < 30 days, and were under the subcategory of “plays”. Finally, the number of campaigns (number of rows) remaining provided the answer of 698 plays.
+
+To answer the second additional question, the new column of campaign length was used. Then a line graph with the x-axis as length of campaign in days could be plotted against a y-axis as percentage of successful/failed/cancelled campaigns (see Figure 6). Figure 6 shows that campaign length is correlated to success or failure. Specifically, successful campaigns tend run for 8 to 21 days. 
+
+Figure 6
+![PlaysSubcategoryOutcomesBasedOnCampaignLength.png](PlaysSubcategoryOutcomesBasedOnCampaignLength.png)
