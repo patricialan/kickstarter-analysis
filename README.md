@@ -1,7 +1,7 @@
 # Kickstarter Campaigns
 
 ## Project Description
-An analysis of Kickstarter campaigns, globally, and specific to the US and Great Britain (GB), was performed to uncover trends. Findings will help create a successful crowdfunding campaign for the release of the play, "Fever", in the US. Findings for five plays from the Edinburgh Fringe Festival and about GB's theater market are also included. The data analysis is available in the spreadsheet, <[data-1-1-3-StarterBook.xlsx.zip](data-1-1-3-StarterBook.xlsx.zip)>.
+An analysis of Kickstarter campaigns, globally, and specific to the US and Great Britain (GB), was performed to uncover trends. Findings will help create a successful crowdfunding campaign for the release of the play, "Fever", in the US. Findings for five plays from the Edinburgh Fringe Festival and about GB's theater market are also included. The data analysis is available in the spreadsheet <[data-1-1-3-StarterBook.xlsx.zip](data-1-1-3-StarterBook.xlsx.zip)>.
 
 ## Findings
 International data was available for 4,114 Kickstarter campaigns, with 3,038 of them from the US. The US had 912 theater campaigns, with the majority of these having been campaigns for plays (671). Plays were the most successful Kickstarter subcategory: the pledge amount reached or exceeded the goal amount in 61% of these campaigns (Figure 1).
