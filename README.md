@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns
+# Kickstarter Campaigns
 
 ## Project Description
 An analysis of Kickstarter campaigns, globally, and specific to the US and Great Britain (GB), was performed to uncover trends. Findings will help create a successful crowdfunding campaign for the release of the play, "Fever", in the US. Findings for five plays from the Edinburgh Fringe Festival and about GB's theater market are also included. The data analysis is available in the spreadsheet, “data-1-1-3-StarterBook” <[data-1-1-3-StarterBook.xlsx.zip](data-1-1-3-StarterBook.xlsx.zip)>.
